@@ -1,0 +1,1 @@
+class High extends State { }
