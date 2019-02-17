@@ -1,0 +1,3 @@
+interface Widget {
+    void draw();
+}
